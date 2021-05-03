@@ -1,1 +1,1 @@
-SmartFarm 
+Applicazione sviluppata nell'ambito di un progetto universitario, IUM (Interazione uomo-macchina). L'obiettivo era quello di creare un'app per fornire supporto alle aziende agricole che operano nell'ambito delle colture intensive.
